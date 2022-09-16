@@ -9,7 +9,7 @@
 
 <channel>
 	<title>THWordpress</title>
-	<atom:link href="https://ha8ng2.github.io/Thanh-Hang/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ha8ng2.github.io/Thanh-Hang</link>
 	<description></description>
 	<lastBuildDate>Mon, 22 Aug 2022 03:48:45 +0000</lastBuildDate>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[DinhThiThanhHang]]></dc:creator>
 		<pubDate>Mon, 22 Aug 2022 01:59:02 +0000</pubDate>
 				<category><![CDATA[Du lịch]]></category>
-		<guid isPermaLink="false">https://ha8ng2.github.io/Thanh-Hang/?p=5</guid>
+		<guid isPermaLink="false">http://localhost/myproject/wordpress/?p=5</guid>
 
 					<description><![CDATA[Biển Cửa Đại &#8211; Hội An, Quảng Nam Nằm cách trung tâm phố Hội chỉ 5km, biển Cửa Đại là một trong những địa điểm du lịch nổi tiếng của Hội An. Đây chính là nơi hội tụ của ba con sông Thu Bồn, Trường Giang và Đế Võng trước khi đổ ra biển Đông. Biển Cửa Đại lôi cuốn du khách ngay từ những giây phút đầu tiên bởi triền cát trắng trải dài bất tận, bao quanh là những hàng dừa xanh cao vút rợp bóng&#8230; 2. Du lịch biển Phú Quốc Biển là “đặc sản” không thể &#8230; ]]></description>
 										<content:encoded><![CDATA[
@@ -39,7 +39,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="3888" height="2592" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/jamison-cameron-dwpFAYqqfy4-unsplash.jpg" alt="" class="wp-image-10"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="3888" height="2592" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/jamison-cameron-dwpFAYqqfy4-unsplash.jpg" alt="" class="wp-image-10"/></figure>
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="3826" height="4783" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/kamil-kalbarczyk-HMFg9UlURvc-unsplash.jpg" alt="" class="wp-image-11"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="3826" height="4783" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/kamil-kalbarczyk-HMFg9UlURvc-unsplash.jpg" alt="" class="wp-image-11"/></figure>
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4592" height="3056" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/pedro-monteiro-HfIex7qwTlI-unsplash-1.jpg" alt="" class="wp-image-13 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4592" height="3056" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/pedro-monteiro-HfIex7qwTlI-unsplash-1.jpg" alt="" class="wp-image-13 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Du lịch Nha Trang&nbsp;tại các bãi biển đẹp, bạn sẽ thích mê với các trải nghiệm mới lạ như ngắm sao biển, san hô, chơi dù lượn, cano hay cắm trại trên bãi cát cạnh biển. Đây còn là dịp để bạn thử tài câu mực, câu cá đêm và tham quan các ngôi làng chài.&nbsp;</p>
 </div></div>
 
@@ -69,7 +69,7 @@
 
 
 
-<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 53%"><figure class="wp-block-media-text__media"><img loading="lazy" width="5472" height="3648" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/elizeu-dias-RN6ts8IZ4_0-unsplash.jpg" alt="" class="wp-image-15 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 53%"><figure class="wp-block-media-text__media"><img loading="lazy" width="5472" height="3648" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/elizeu-dias-RN6ts8IZ4_0-unsplash.jpg" alt="" class="wp-image-15 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Bãi biển Sầm Sơn trải dài 6km, từ cửa Lạch Hới tới chân núi Trường Lệ. Sầm Sơn là một trong 9 bãi biển đẹp nhất Việt Nam với bãi cát thoai thoải, nước biển trong veo và bờ biển bằng phẳng. Đây là điều kiện lý tưởng để bạn tắm biển và vui chơi cực đã.</p>
 </div></div>
 
@@ -79,7 +79,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/elizeu-dias-RN6ts8IZ4_0-unsplash-1.jpg" alt="" class="wp-image-16"/></figure>
+<figure class="wp-block-image size-full"><img src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/elizeu-dias-RN6ts8IZ4_0-unsplash-1.jpg" alt="" class="wp-image-16"/></figure>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:54% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="4807" height="3205" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/nenad-radojcic-RF5U8BkaQHU-unsplash.jpg" alt="" class="wp-image-20 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:54% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="4807" height="3205" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/nenad-radojcic-RF5U8BkaQHU-unsplash.jpg" alt="" class="wp-image-20 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Bãi biển Thiên Cầm&nbsp;là một trong số ít những bãi biển tại miền Trung vẫn giữ được vẻ đẹp hoang sơ, môi trường trong lành yên tĩnh với núi non trùng điệp và bãi biển trong xanh màu ngọc bích. Thiên Cầm có tới 3 bãi tắm với tổng chiều dài bãi biển khoảng 10km. Từ đỉnh núi Thiên Cầm, phóng tầm mắt ra xa, bạn sẽ thấy bãi tắm Thiên Cầm trông như một “cung đàn” với bãi cát trắng phau, mịn màng</p>
 </div></div>
 
@@ -101,7 +101,7 @@
 
 
 
-<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 54%"><figure class="wp-block-media-text__media"><img loading="lazy" width="5685" height="3790" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/tyler-nix-DvAeKMxMVQ4-unsplash.jpg" alt="" class="wp-image-18 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 54%"><figure class="wp-block-media-text__media"><img loading="lazy" width="5685" height="3790" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/tyler-nix-DvAeKMxMVQ4-unsplash.jpg" alt="" class="wp-image-18 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Phan Thiết là thành phố biển nổi tiếng thuộc tỉnh Bình Thuận, cách thành phố Hồ Chí Minh khoảng 200Km về phía Đông và cách thành phố Nha Trang khoảng 240Km về phía Tây Nam. Nếu là “phượt thủ” kỳ cựu, bạn ắt hẳn biết rằng hành trình đi đến Phan Thiết sẽ đi qua một trong những cung đường ven biển đẹp nhất Việt Nam. Chẳng những hưởng trọn không khí biển trong lành và khung cảnh thiên nhiên ngọt ngào, bức tranh thôn quê hiện lên bên những khu vườn thanh long say trĩu quả cũng là điểm nhấn thú vị.</p>
 </div></div>
 
@@ -111,7 +111,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="6000" height="4000" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/daniel-oberg-1VYdx37vOGQ-unsplash.jpg" alt="" class="wp-image-19"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="6000" height="4000" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/daniel-oberg-1VYdx37vOGQ-unsplash.jpg" alt="" class="wp-image-19"/></figure>
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="5374" height="3583" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/nick-karvounis-8PR1tT9UmmU-unsplash-1.jpg" alt="" class="wp-image-21"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="5374" height="3583" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/nick-karvounis-8PR1tT9UmmU-unsplash-1.jpg" alt="" class="wp-image-21"/></figure>
 
 
 
@@ -143,7 +143,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="4032" height="3024" src="https://ha8ng2.github.io/Thanh-Hang/wp-content/uploads/2022/08/quang-hong-_MY-enLhlCc-unsplash.jpg" alt="" class="wp-image-22"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="4032" height="3024" src="http://localhost/myproject/wordpress/wp-content/uploads/2022/08/quang-hong-_MY-enLhlCc-unsplash.jpg" alt="" class="wp-image-22"/></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ha8ng2.github.io/Thanh-Hang/nhung-bai-bien-dep-nhat-viet-nam/feed/</wfw:commentRss>
