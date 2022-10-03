@@ -7,15 +7,31 @@
 	>
 <channel>
 	<title>
-	Comments for THWordpress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	Bình luận cho TH WordPress	</title>
+	<atom:link href="https://ha8ng2.github.io/Thanh-Hang/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ha8ng2.github.io/Thanh-Hang</link>
 	<description></description>
-	<lastBuildDate>Fri, 16 Sep 2022 15:54:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Oct 2022 03:16:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<item>
+		<title>
+		Phản hồi cho Basic Foundation bởi Thanh Hang		</title>
+		<link>https://ha8ng2.github.io/Thanh-Hang/san-pham/basic-foundation/#comment-2</link>
+
+		<dc:creator><![CDATA[Thanh Hang]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 03:16:24 +0000</pubDate>
+		<guid isPermaLink="false">https://ha8ng2.github.io/Thanh-Hang/?post_type=product&#038;p=80#comment-2</guid>
+
+					<description><![CDATA[Duckbill gizzard shad redmouth whalefish yellowtail barracuda convict cichlid; saw shark yellowfin surgeonfish? Silver dollar salamanderfish longfin
+
+]]></description>
+			<content:encoded><![CDATA[<p>Duckbill gizzard shad redmouth whalefish yellowtail barracuda convict cichlid; saw shark yellowfin surgeonfish? Silver dollar salamanderfish longfin</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

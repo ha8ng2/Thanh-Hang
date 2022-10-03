@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thanh Hang &#8211; TH WordPress</title>
+	<atom:link href="https://ha8ng2.github.io/Thanh-Hang/author/thanh-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ha8ng2.github.io/Thanh-Hang</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Sep 2022 01:11:10 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Homepage</title>
+		<link>https://ha8ng2.github.io/Thanh-Hang/2022/09/26/homepage-2/</link>
+					<comments>https://ha8ng2.github.io/Thanh-Hang/2022/09/26/homepage-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Thanh Hang]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2022 01:11:09 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://ha8ng2.github.io/Thanh-Hang/2022/09/26/homepage-2/</guid>
+
+					<description><![CDATA[Where do you want to go? Trips, experiences, and plances. All in one service. Search This page is Trips, experiences and plans Popular Destinations World&#8217;s best tourist destinations Tokyo Seoul Paris London Best Value Trips Best offers trips from us French Autumn City Tours, Urban. 4 reviews &#xE934;&#xE934;&#xE934;&#xE934;&#xE934; 4/5 5 days Grand SwitizerlandShopping, Mountain, Snow [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="17" class="elementor elementor-17">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7389f3db elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7389f3db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-581d05eb" data-id="581d05eb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3af92294 elementor-widget__width-initial elementor-widget elementor-widget-post-info" data-id="3af92294" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"><link rel="stylesheet" href="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-f7b0c85 elementor-inline-item">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-globe-europe"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										GTour					</span>
+								</li>
+				</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-377640e" data-id="377640e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3a48e6f elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="3a48e6f" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-3a48e6f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-132"><a href="https://ha8ng2.github.io/Thanh-Hang/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://ha8ng2.github.io/Thanh-Hang/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://ha8ng2.github.io/Thanh-Hang/contact/" class="elementor-item">Contact</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-3a48e6f" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-132"><a href="https://ha8ng2.github.io/Thanh-Hang/" class="elementor-item" tabindex="-1">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://ha8ng2.github.io/Thanh-Hang/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://ha8ng2.github.io/Thanh-Hang/contact/" class="elementor-item" tabindex="-1">Contact</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3740786d" data-id="3740786d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-12b30dc6 elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="12b30dc6" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-shopping-cart"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3e5b7edd elementor-section-full_width elementor-section-height-full elementor-section-height-default elementor-section-items-middle" data-id="3e5b7edd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-12a7d88" data-id="12a7d88" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9fbc65f elementor-widget elementor-widget-heading" data-id="9fbc65f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Where do you want to go?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-210501fd elementor-widget elementor-widget-text-editor" data-id="210501fd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Trips, experiences, and plances. All in one service.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-100e04cc elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-button" data-id="100e04cc" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Search</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2a2a4b2c elementor-widget__width-initial elementor-absolute elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a2a4b2c" data-element_type="widget" data-settings="{&quot;highlighted_text&quot;:&quot;Trips, experiences and plans&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;marker&quot;:&quot;circle&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css">		<h6 class="elementor-headline">
+					<span class="elementor-headline-plain-text elementor-headline-text-wrapper">This page is</span>
+				<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+					<span class="elementor-headline-dynamic-text elementor-headline-text-active">Trips, experiences and plans</span>
+				</span>
+				</h6>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-27f9b1cb elementor-widget__width-initial elementor-absolute elementor-search-form--skin-classic elementor-search-form--button-type-icon elementor-search-form--icon-search elementor-widget elementor-widget-search-form" data-id="27f9b1cb" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;skin&quot;:&quot;classic&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://ha8ng2.github.io/Thanh-Hang" method="get">
+									<div class="elementor-search-form__container">
+								<input placeholder="Destination, city" class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+													<button class="elementor-search-form__submit" type="submit" title="Search" aria-label="Search">
+													<i aria-hidden="true" class="fas fa-search"></i>							<span class="elementor-screen-only">Search</span>
+											</button>
+											</div>
+		</form>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-20f7bab3 elementor-widget__width-initial elementor-absolute elementor-search-form--skin-classic elementor-search-form--button-type-icon elementor-search-form--icon-search elementor-widget elementor-widget-search-form" data-id="20f7bab3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;skin&quot;:&quot;classic&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://ha8ng2.github.io/Thanh-Hang" method="get">
+									<div class="elementor-search-form__container">
+								<input placeholder="Search..." class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+													<button class="elementor-search-form__submit" type="submit" title="Search" aria-label="Search">
+													<i aria-hidden="true" class="fas fa-search"></i>							<span class="elementor-screen-only">Search</span>
+											</button>
+											</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-61da8186 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="61da8186" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-339e561f" data-id="339e561f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3dea83d8 elementor-widget elementor-widget-heading" data-id="3dea83d8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Popular Destinations</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3a3a6bbb elementor-widget elementor-widget-text-editor" data-id="3a3a6bbb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>World&#8217;s best tourist destinations</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4e642c21 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4e642c21" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-783e0002" data-id="783e0002" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30b4dfab elementor-widget elementor-widget-image" data-id="30b4dfab" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-grow" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-1cae87e6 elementor-absolute elementor-widget elementor-widget-heading" data-id="1cae87e6" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tokyo</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-70b8c20e" data-id="70b8c20e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3f1caed5 elementor-widget elementor-widget-image" data-id="3f1caed5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-grow" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4ef3a784 elementor-absolute elementor-widget elementor-widget-heading" data-id="4ef3a784" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Seoul</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-25985ff1" data-id="25985ff1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-703da468 elementor-widget elementor-widget-image" data-id="703da468" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-grow" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-1a232838 elementor-absolute elementor-widget elementor-widget-heading" data-id="1a232838" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Paris</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-605dab07" data-id="605dab07" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-611d2b30 elementor-absolute elementor-widget elementor-widget-image" data-id="611d2b30" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-grow" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-232695b0 elementor-absolute elementor-widget elementor-widget-heading" data-id="232695b0" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">London</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1adaf01a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1adaf01a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2380c9dd" data-id="2380c9dd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e784ecb elementor-widget elementor-widget-heading" data-id="e784ecb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Best Value Trips</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4bd00846 elementor-widget elementor-widget-text-editor" data-id="4bd00846" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Best offers trips from us</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5ea6d20f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ea6d20f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-efc318e" data-id="efc318e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-68de25b1 elementor-widget elementor-widget-image" data-id="68de25b1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-shrink" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-1286561 elementor-widget elementor-widget-heading" data-id="1286561" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">French Autumn<br>
+<span style="color: rgb(122, 122, 122); font-size: 18px; font-weight: 400; white-space: normal;">
+City Tours, Urban.</span></h4>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-644d900d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="644d900d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c25734e" data-id="c25734e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-46bf6fa5 elementor-star-rating--align-left elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="46bf6fa5" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+@charset "UTF-8";.elementor-star-rating{color:#ccd6df;font-family:eicons;display:inline-block}.elementor-star-rating i{display:inline-block;position:relative;font-style:normal;cursor:default}.elementor-star-rating i:before{content:"\e934";display:block;font-size:inherit;font-family:inherit;position:absolute;overflow:hidden;color:#f0ad4e;top:0;left:0}.elementor-star-rating .elementor-star-empty:before{content:none}.elementor-star-rating .elementor-star-1:before{width:10%}.elementor-star-rating .elementor-star-2:before{width:20%}.elementor-star-rating .elementor-star-3:before{width:30%}.elementor-star-rating .elementor-star-4:before{width:40%}.elementor-star-rating .elementor-star-5:before{width:50%}.elementor-star-rating .elementor-star-6:before{width:60%}.elementor-star-rating .elementor-star-7:before{width:70%}.elementor-star-rating .elementor-star-8:before{width:80%}.elementor-star-rating .elementor-star-9:before{width:90%}.elementor-star-rating__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-star-rating__title{margin-right:10px}.elementor-star-rating--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating--align-justify .elementor-star-rating__title{margin-right:auto}@media (max-width:1024px){.elementor-star-rating-tablet--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-tablet--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-tablet--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-tablet--align-justify .elementor-star-rating__title{margin-right:auto}}@media (max-width:767px){.elementor-star-rating-mobile--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-mobile--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-mobile--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-mobile--align-justify .elementor-star-rating__title{margin-right:auto}}.last-star{letter-spacing:0}.elementor--star-style-star_unicode .elementor-star-rating{font-family:Arial,Helvetica,sans-serif}.elementor--star-style-star_unicode .elementor-star-rating i:not(.elementor-star-empty):before{content:"★"}</style>
+		<div class="elementor-star-rating__wrapper">
+							<div class="elementor-star-rating__title">4 reviews</div>
+						<div class="elementor-star-rating" title="4/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-empty">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4/5</span></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-204bfec5" data-id="204bfec5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7c011686 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7c011686" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">5 days</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-35c9c368" data-id="35c9c368" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-67cc1e34 elementor-widget elementor-widget-image" data-id="67cc1e34" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-shrink" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4d75bf5a elementor-widget elementor-widget-heading" data-id="4d75bf5a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Grand Switizerland<br><span style="color: rgb(122, 122, 122); font-size: 18px; font-weight: 400; white-space: normal;">Shopping, Mountain, Snow &amp; Ice.</span></h4>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6f55f98f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6f55f98f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1f1bfb8d" data-id="1f1bfb8d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d7eb2cb elementor-star-rating--align-left elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="2d7eb2cb" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			
+		<div class="elementor-star-rating__wrapper">
+							<div class="elementor-star-rating__title">4 reviews</div>
+						<div class="elementor-star-rating" title="4/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-empty">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4/5</span></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-18db9991" data-id="18db9991" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-60c53b4d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="60c53b4d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">6 days</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-685eace0" data-id="685eace0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d7ca7c4 elementor-widget elementor-widget-image" data-id="2d7ca7c4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-shrink" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4e2bf8da elementor-widget elementor-widget-heading" data-id="4e2bf8da" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Discover Japan<br><span style="color: rgb(122, 122, 122); font-size: 18px; font-weight: 400; white-space: normal;">City Tours, Iconic.</span></h4>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-24f5b0e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24f5b0e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-43c8f3b9" data-id="43c8f3b9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-64255bf5 elementor-star-rating--align-left elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="64255bf5" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			
+		<div class="elementor-star-rating__wrapper">
+							<div class="elementor-star-rating__title">4 reviews</div>
+						<div class="elementor-star-rating" title="4/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-empty">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4/5</span></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14d7d8e0" data-id="14d7d8e0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-18ece4cf elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="18ece4cf" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">5 days</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6178fd1e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6178fd1e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1105a8ec" data-id="1105a8ec" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6dfd0bd1 elementor-widget elementor-widget-heading" data-id="6dfd0bd1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Why Choose Us</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1c14a1b6 elementor-widget elementor-widget-text-editor" data-id="1c14a1b6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Here are reasons you should plan trip with us</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7e624118 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7e624118" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4c05a5ae" data-id="4c05a5ae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-279763ae elementor-widget elementor-widget-image" data-id="279763ae" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5056e787 elementor-widget elementor-widget-heading" data-id="5056e787" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Handpicked Hotels</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52cb1316 elementor-widget elementor-widget-text-editor" data-id="52cb1316" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1bb4e5be" data-id="1bb4e5be" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1763c235 elementor-widget elementor-widget-image" data-id="1763c235" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-177e29c1 elementor-widget elementor-widget-heading" data-id="177e29c1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">World Class Service</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-181d61d9 elementor-widget elementor-widget-text-editor" data-id="181d61d9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f4ee81" data-id="f4ee81" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-13eeffbc elementor-widget elementor-widget-image" data-id="13eeffbc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-20c8817a elementor-widget elementor-widget-heading" data-id="20c8817a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Best Price Guarantee</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-74eef9a2 elementor-widget elementor-widget-text-editor" data-id="74eef9a2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-51e8863f elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="51e8863f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wider">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-276d9253" data-id="276d9253" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-75baac19 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="75baac19" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-78c82e64" data-id="78c82e64" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4bfc7e51 elementor-widget elementor-widget-heading" data-id="4bfc7e51" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><span style="color: rgb(0, 0, 0); font-family: Poppins, Helvetica, Arial, sans-serif; font-size: 36px; text-align: center; white-space: normal; font-weight: var( --e-global-typography-primary-font-weight );">Articles &amp; Tips</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-498c9e04 elementor-widget elementor-widget-text-editor" data-id="498c9e04" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Explore some of the best tips from around the world</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-deb4c55 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="deb4c55" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-63e8730" data-id="63e8730" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c88c371 elementor-widget elementor-widget-image" data-id="2c88c371" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-grow" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c37e0e3 elementor-widget elementor-widget-heading" data-id="c37e0e3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default"><a href="https://themes.themegoods.com/grandtour/demo/my-memorial-day-tribute-to-someone-who-told-me-to-travel/" title="Memorial Day to Someone Told Me to Travel" style="margin: 0px; padding: 0px; border: 0px; font-size: 20px; font-family: Poppins, Helvetica, Arial, sans-serif; vertical-align: baseline; color: rgb(0, 0, 0); transition: color 0.2s linear 0s, background 0.1s linear 0s; white-space: normal; background-color: rgb(255, 255, 255);">Memorial Day to Someone Told Me to Travel</a></h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-96315b6 elementor-widget elementor-widget-text-editor" data-id="96315b6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2af56f3c elementor-widget elementor-widget-button" data-id="2af56f3c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-21d02bbd" data-id="21d02bbd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4cd01d8a elementor-widget elementor-widget-image" data-id="4cd01d8a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-grow" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-77a9a9c6 elementor-widget elementor-widget-heading" data-id="77a9a9c6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default"><a href="https://themes.themegoods.com/grandtour/demo/7-tips-for-nomads-on-a-budget/" title="7 Tips For Nomads On A Budget Trips" style="margin: 0px; padding: 0px; border: 0px; font-size: 20px; font-family: Poppins, Helvetica, Arial, sans-serif; vertical-align: baseline; color: rgb(0, 0, 0); transition: color 0.2s linear 0s, background 0.1s linear 0s; white-space: normal; background-color: rgb(255, 255, 255);">7 Tips For Nomads On A Budget Trips</a></h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9338541 elementor-widget elementor-widget-text-editor" data-id="9338541" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-249eb789 elementor-widget elementor-widget-button" data-id="249eb789" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6ddb182e" data-id="6ddb182e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2cc52805 elementor-widget elementor-widget-image" data-id="2cc52805" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://ha8ng2.github.io/Thanh-Hang/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" class="elementor-animation-grow" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3d8f986 elementor-widget elementor-widget-heading" data-id="3d8f986" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default"><a href="https://themes.themegoods.com/grandtour/demo/taking-a-travel-blog-victory-lap/" title="Taking A Travel Blog Victory Lap" style="margin: 0px; padding: 0px; border: 0px; font-size: 20px; font-family: Poppins, Helvetica, Arial, sans-serif; vertical-align: baseline; color: rgb(0, 0, 0); transition: color 0.2s linear 0s, background 0.1s linear 0s; white-space: normal; background-color: rgb(255, 255, 255);">Taking A Travel Blog Victory Lap</a> <a href="https://themes.themegoods.com/grandtour/demo/taking-a-travel-blog-victory-lap/" title="Taking A Travel Blog Victory Lap" style="font-weight: var( --e-global-typography-primary-font-weight ); background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 20px; margin: 0px; padding: 0px; border: 0px; font-family: Poppins, Helvetica, Arial, sans-serif; vertical-align: baseline; transition: color 0.2s linear 0s, background 0.1s linear 0s; white-space: normal;">&nbsp;Lap</a></h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44076fa5 elementor-widget elementor-widget-text-editor" data-id="44076fa5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-141b18f2 elementor-widget elementor-widget-button" data-id="141b18f2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4286cdfd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4286cdfd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7fd51f98" data-id="7fd51f98" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-57ba8048 elementor-widget elementor-widget-spacer" data-id="57ba8048" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-container{--container-widget-width:100%}.e-container>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));-ms-flex-item-align:stretch;align-self:stretch;-ms-flex-negative:0;flex-shrink:0}.e-container>.elementor-widget-spacer>.elementor-widget-container,.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-53c75dc7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53c75dc7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3801d6da" data-id="3801d6da" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-291d1e4 elementor-widget elementor-widget-heading" data-id="291d1e4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our Awards</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1143202c elementor-widget elementor-widget-text-editor" data-id="1143202c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>London is a megalopolis of people, ideas and frenetic energy. The capital and largest city of the United Kingdom.<img loading="lazy" class="entered lazyloaded alignnone" src="https://themes-themegoods.b-cdn.net/grandtour/demo/wp-content/uploads/2016/12/awards.png" alt="" width="246" height="113" data-lazy-src="https://themes-themegoods.b-cdn.net/grandtour/demo/wp-content/uploads/2016/12/awards.png" data-ll-status="loaded"></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17163471" data-id="17163471" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-77036059 elementor-widget elementor-widget-heading" data-id="77036059" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-58d716e2 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="58d716e2" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">1-567-124-44227</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-search-location"></i>						</span>
+										<span class="elementor-icon-list-text">184 Main Street East Perl Habour 8007</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">Mon - Sat 8.00 - 18.00 Sunday CLOSED</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4084196a elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="4084196a" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);-webkit-box-pack:var(--justify-content,center);-ms-flex-pack:var(--justify-content,center);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;background-color:#818a91;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style>		<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-652554e" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-27d18d7" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-8e47967" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-5670620" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4a204157" data-id="4a204157" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-77ca57f0 elementor-widget elementor-widget-heading" data-id="77ca57f0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Recent Trips</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-60faa1f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60faa1f4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-61636847" data-id="61636847" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1ce1f830" data-id="1ce1f830" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-46f87d15" data-id="46f87d15" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://ha8ng2.github.io/Thanh-Hang/2022/09/26/homepage-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
