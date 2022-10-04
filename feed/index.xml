@@ -12,12 +12,32 @@
 	<atom:link href="https://github.com/ha8ng2/Thanh-Hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://github.com/ha8ng2/Thanh-Hang</link>
 	<description></description>
-	<lastBuildDate>Mon, 03 Oct 2022 14:35:39 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Mon, 26 Sep 2022 00:59:08 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://github.com/ha8ng2/Thanh-Hang/2022/09/26/chao-moi-nguoi/</link>
+					<comments>https://github.com/ha8ng2/Thanh-Hang/2022/09/26/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[Thanh Hang]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2022 00:59:08 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://github.com/ha8ng2/Thanh-Hang/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/ha8ng2/Thanh-Hang/2022/09/26/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
