@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Thanh Hang &#8211; TH WordPress</title>
-	<atom:link href="https://github.com/ha8ng2/Thanh-Hang/author/thanh-hang/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/ha8ng2/Thanh-Hang</link>
+	<atom:link href="https://ha8ng2.github.io/Thanh-Hang/author/thanh-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ha8ng2.github.io/Thanh-Hang</link>
 	<description></description>
 	<lastBuildDate>Mon, 26 Sep 2022 00:59:08 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://github.com/ha8ng2/Thanh-Hang/2022/09/26/chao-moi-nguoi/</link>
-					<comments>https://github.com/ha8ng2/Thanh-Hang/2022/09/26/chao-moi-nguoi/#comments</comments>
+		<link>https://ha8ng2.github.io/Thanh-Hang/2022/09/26/chao-moi-nguoi/</link>
+					<comments>https://ha8ng2.github.io/Thanh-Hang/2022/09/26/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[Thanh Hang]]></dc:creator>
 		<pubDate>Mon, 26 Sep 2022 00:59:08 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://github.com/ha8ng2/Thanh-Hang/?p=1</guid>
+		<guid isPermaLink="false">https://ha8ng2.github.io/Thanh-Hang/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/ha8ng2/Thanh-Hang/2022/09/26/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ha8ng2.github.io/Thanh-Hang/2022/09/26/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
