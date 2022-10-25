@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Shield Conditioner	</title>
+	Comments on: Shield Conditioner	</title>
 	<atom:link href="https://ha8ng2.github.io/Thanh-Hang/san-pham/shield-conditioner/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ha8ng2.github.io/Thanh-Hang/san-pham/shield-conditioner/</link>
 	<description></description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>

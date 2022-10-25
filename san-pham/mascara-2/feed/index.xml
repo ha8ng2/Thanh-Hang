@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Mascara	</title>
+	Comments on: Mascara	</title>
 	<atom:link href="https://ha8ng2.github.io/Thanh-Hang/san-pham/mascara-2/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ha8ng2.github.io/Thanh-Hang/san-pham/mascara-2/</link>
 	<description></description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
